@@ -1,0 +1,112 @@
+
+
+<HTML>
+
+
+</html>
+
+      <HEAD>
+             <TITLE>Calentamiento global</title>
+      </HEAD>
+     <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="fondoMP4" content="width=device-width,initial-scale=1.0">
+    <title>Caletamiento global</title>
+    
+<BODY>
+   <center><H1><font size="200" <font Color="Blue"> Calentamiento Global </font> </h1> </center>
+
+   <center> <img src="imagen5.jpeg" "WIDTH=50"  HEIGHT=50"> </center>
+<br>
+<p><h2>Es el aumento gradual de la temperatura promedio de la afmosfera terrestre y los oceanos,principalmente causado por la emision de gases de efectos invernadero debido a actividades humanas como la quema de combustibles fosiles y la deforestacion.esto conduce al cambios de clima,como el aumento de las temperaturas el de rretimiento de los glaciares de nivel del mover entre otros impactos. <a href="file:///D:/calentamiento%20Global%20pagina%20web/3.html"> mostrar mas...</a>
+</h2></p>
+                                                                                                                                                              
+                                                                                                                                                                 
+                          <center><img src="energia.jpg"  "WIDTH=400"  HEIGHT=350">
+
+<p>
+
+<Center>
+<video controls width="600">
+<source src="video.jpg" type=video/mp4>
+</video>
+</center>
+
+<H1>¿Que debo hacer para evitar el Calentamiento Global?</h1>
+
+<p><h2>Consume menos, reutiliza,repara y recicla.
+
+para proteger nuestro clima,compra menos cosas, compra de segunda mano, repara lo que puedas y recicla.Tan solo los plasticos generaron 1800 millones de toneladas metricas de emiciones de gases de efecto invernadero en 2019,el 3,4% del total mundial.<a href="file:///D:/calentamiento%20Global%20pagina%20web/4.html"> mostrar mas...</a></p>
+
+
+<h2></p>   
+<Center><img src="Imagen 1.jpg"  "WIDTH=400"  HEIGHT=400">
+
+
+<H2>Clasificacion del Calentamiento Global</h2>
+
+<p><h3>El calentamiento global antropogenico es el mas precupante,ya que es causado principalmente por las actividades humanas.Otro tipo de Calentamiento global es el polar,que se refiere al aumento de la temperatura en las regiones polares,como el artetico y la artatida. <a href="file:///D:/calentamiento%20Global%20pagina%20web/5.html"> mostrar mas...</a></p></h3></p>  
+     <img src="Imagen 2.jpg"  "WIDTH=400"  HEIGHT=400">
+
+
+<body>
+<table border="1" width="100%">
+<thead bgcolor="aqua">
+<tr>
+<th>Tipos de Contaminacion Global</th>
+<th>Definicion</th>
+<th>Imagen</th>
+</tr>
+</thead>
+
+<tbody align="center" bgcolor="">
+<tr>
+<td><h1>Aumento de los gases de efecto invernadero</td>
+<td><h2>La gran mayoria de los procesos de este tipo liberan una enorme de gases de efecto invernadero que,una vez en la afmosfera, deterioran la capa de ozono y, ala vez, expone ala Tierra de Manera directa a los rayos del sol.</td>   
+
+
+<td><img src="Invernadero.jpg"  "WIDTH=50"  HEIGHT=200"></td>
+</tr>
+
+<tr>
+<td><h1>Quema de combustibles Fosiles</td>
+<td><h2>En efecto negativo de los combustibles fosiles es doble si tenemos en cuenta la contaminacion del aire y los problemas de salud que se pueden derivar de esta circustancia. </td>  
+<td><img src="Combustibles.jpg"  "WIDTH=150"  HEIGHT=200"></td>
+</tr>
+
+<tr>
+<td><h1>Deforestacion de Selvas y Bosques</td>
+<td><h2>Los arbobles tiene la facultad de convertir el CO2 en oxigeno a traves del proceso de la fotosintesis, con lo cual contribuyen a reducir la contaminacion del aire.pero si reducimos su numero, la concentracion de CO2 y de Otros gases sera mayor y, por lo tanto, aumentaran las temperaturas terrestres. </td>   
+
+<td><img src="Bosques.jpg"  "WIDTH=150"  HEIGHT=200"></td>
+</tr>
+
+<tr>
+<td><h1>Excesivo uso de fertilizantes</td>
+<td><h2>Los pestilicidas, fertilizantes y ademas quimicos empleados en sectores como la agricultura y la ganaderia son otra causa directa del calentamiento global.</td>   
+
+
+</td>      
+<td><img src="fertilizantes.jpg"  "WIDTH=150"  HEIGHT=200"></td>
+</tr>
+ 
+<tr>
+<td><h1>Alta Produccion de Residuos</td>
+<td><h2>La alta produccion de residuos tambien  favorece el calentamiento global.¿De que manera?cuantos mas residuos produzcamos a diario, mayores seran los niveles de gas metano en el ambiente, un elemento que se genera durante la descomposicion de materiales en los vertederos.</td>   
+
+
+</td>  
+<td><img src="Residuos.jpg"  "WIDTH=150"  HEIGHT=200"></td>
+</tr>
+<br>
+ <a href="file:///D:/calentamiento%20Global%20pagina%20web/6.html"> mostrar mas...</a></p>
+
+
+</tbody>
+
+</table>
+
+
+</body>
+
+</HTML>
